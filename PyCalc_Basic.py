@@ -1,7 +1,7 @@
 ﻿#-*-coding: utf-8-*-
 
 #PyCalc V2.0
-#Made By: Amin Karic
+#Made By: Trooper_Z aka Amin Karric 
 
 from tkinter import *
 from tkinter.colorchooser import askcolor
